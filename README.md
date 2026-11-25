@@ -113,6 +113,7 @@ Plugin Minecraft pour serveurs <b>Paper 1.21.4 à 26.3</b>, par <b>SnkAlex</b>. 
 À utiliser **à la place** d'un autre plugin de chat, de TAB ou de tableau. Si tu veux garder l'autre, coupe la partie qui fait double emploi.
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : des personnages avec dialogues, et les plaques de grade dans leurs noms
 - **[SnkClans](https://github.com/SnkStudio/SnkClans)** : tag du clan partout et couleurs selon les alliances
 - **[SnkMetiers](https://github.com/SnkStudio/SnkMetiers)** : niveau et argent dans le tableau et les classements
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : titres et couleurs gagnés, affichés dans le chat
